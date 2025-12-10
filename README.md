@@ -14,6 +14,9 @@ The analysis utilizes a dataset containing automotive specifications and pricing
 * `City MPG`, `Highway MPG`: Fuel consumption metrics
 * `MSRP`: Manufacturer's Suggested Retail Price (The Target Variable)
 
+Before you run notebook, please download the dataset and insert it into the notebook: 
+[Car Dataset](https://drive.google.com/file/d/19V7VjHs4J8idTko7NQUT95ZJO2ZQSGWh/view)
+
 ## 🛠️ Methodology and Steps
 
 The analysis follows a standard, rigorous EDA workflow, as documented in the accompanying Jupyter Notebook (`Car_Analysis_with_Python (1).ipynb`):
